@@ -1,4 +1,4 @@
-PyBank
+
 import os
 import csv 
 input_title = input("Revenue:")
